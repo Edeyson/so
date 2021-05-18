@@ -1,0 +1,9 @@
+{
+    "conexion":{
+        "server":"127.0.0.1",
+        "user":"so",
+        "password":"hola1234",
+        "database":"sobd",
+        "port":"3306"
+    }
+}
